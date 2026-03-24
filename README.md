@@ -22,3 +22,4 @@ This project is a DIY head-tracking device built using an Arduino Micro and a BN
 The main requirement for IR Tracking to work is that you have access to a camera that can achieve at least 30 fps, ideally 60fps, in very low light conditions. This is not standard for very old and/or cheap webcams. Using an IMU (Inertial Measurement Unit) that is strapped to a headset, it is possible to use the orientation of the sensor to send the head rotation data of the user to the PC, allowing for in-game movement of the character's head.
 
 # Demo Images and Videos
+
