@@ -11,8 +11,6 @@ Instructions on how to get started are provided in PDF format within "Instructio
 * 1x Arduino Micro
 * 1x Adafruit BNO055 9-Axis IMU
 * 4x Jumper Wires
-* 1x Case
-* 1x Velcro
 
 **Software**
 
