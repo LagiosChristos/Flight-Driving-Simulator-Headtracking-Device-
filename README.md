@@ -17,7 +17,11 @@ Instructions on how to get started are provided in PDF format within "Instructio
 * Arduino IDE
 * OpenTrack
 
-# Demo Images and Videos
+# Demo Image and Video
+https://www.youtube.com/watch?v=KOsUMJYXmp8
+
+<img width="306" height="408" alt="image" src="https://github.com/user-attachments/assets/c0423f9d-78e3-41bf-a875-2fcee2ce4b63" />
+
 
 # Wiring
 <img width="500" height="187" alt="image" src="https://github.com/user-attachments/assets/38c46053-9219-4793-9298-36eae7d5f1e6" />
